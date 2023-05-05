@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\HW8\less3\bin\Debug\net7.0\less3.exe
+C:\Users\Роман\Desktop\HW8\less3\bin\Debug\net7.0\less3.deps.json
+C:\Users\Роман\Desktop\HW8\less3\bin\Debug\net7.0\less3.runtimeconfig.json
+C:\Users\Роман\Desktop\HW8\less3\bin\Debug\net7.0\less3.dll
+C:\Users\Роман\Desktop\HW8\less3\bin\Debug\net7.0\less3.pdb
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.AssemblyInfo.cs
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.dll
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\refint\less3.dll
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.pdb
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\less3.genruntimeconfig.cache
+C:\Users\Роман\Desktop\HW8\less3\obj\Debug\net7.0\ref\less3.dll
